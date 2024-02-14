@@ -185,7 +185,7 @@ class EmployeeManagementApp:
 
 
     def display_developers(self):
-        developers_name = ["FIZZA SAEED (65341)","YASEEN","SHAZMA"]
+        developers_name = ["FIZZA SAEED","MIRZA HAMMAD BAIG"]
         queue=Queue()
         for i in range(len(developers_name)):
             queue.Enqueue(developers_name[i])
